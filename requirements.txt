@@ -1,0 +1,4 @@
+uwsgi
+uvloop
+aiohttp[speedups]
+
